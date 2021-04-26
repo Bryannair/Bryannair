@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bryannair
 - 👀 I’m interested in web, game development.
-- 🌱 I’m currently learning Angular,API Platform, Symfony.
+- 🌱 I’m currently learning Angular, API Platform, Symfony.
 - 💞️ I’m looking to collaborate on any kind of project.
 - 📫 How to reach me : bryan.rinck@outlook.com
 
